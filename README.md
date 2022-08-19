@@ -1,6 +1,7 @@
 ### Hello 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisBenedict)](https://github.com/LouisBenedict/github-readme-stats)
+### Some Github stats so far:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisBenedict&show_icons=true&theme=maroongold)](https://github.com/LouisBenedict/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
