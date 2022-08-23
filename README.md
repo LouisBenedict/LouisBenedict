@@ -8,9 +8,8 @@
 
 ### 💬 While not tech-related-stuff, I enjoy spending time on:
 - Reading
-- Investing, mainly in Currency, Commodities, Crypto, and Stocks. 
+- Building my net worth through investing, mainly in Currency, Commodities, Crypto, and Stocks. 
 - Gaming. 
-- Building my net worth.
 
 ### - 📫 How to reach me: 
 - LinkedIn : www.linkedin.com/in/louis-benedict-loh
